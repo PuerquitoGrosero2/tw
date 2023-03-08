@@ -1,7 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/tw/sw.js'; https://puerquitogrosero2.github.io/tw/
-
+var swLocation = '/TW/sw.js'; 'http://tw.github.io/TW/'
 
 if ( navigator.serviceWorker ) {
 
