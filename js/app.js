@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/twittor/sw.js';
+var swLocation = '/tw/sw.js'; https://puerquitogrosero2.github.io/tw/
 
 
 if ( navigator.serviceWorker ) {
